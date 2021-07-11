@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ceec839c.chunk.css",
+    "main.js": "./static/js/main.2c1d288d.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.0b4c565b.js",
+    "static/js/2.f46c3514.chunk.js": "./static/js/2.f46c3514.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.f46c3514.chunk.js.LICENSE.txt": "./static/js/2.f46c3514.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/HennyPenny-Regular.8618a957.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b4c565b.js",
+    "static/js/2.f46c3514.chunk.js",
+    "static/css/main.ceec839c.chunk.css",
+    "static/js/main.2c1d288d.chunk.js"
+  ]
+}
